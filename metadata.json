@@ -1,0 +1,7 @@
+{
+  "name": "ChefGenie",
+  "description": "An AI-powered culinary assistant that generates unique recipes based on your ingredients, dietary preferences, or a photo of your fridge.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
